@@ -2,9 +2,9 @@
 
 🎯 Goals
 
-Innovate: 💡 Develop novel machine learning techniques for vulnerability detection.
+<b>Innovate</b>: 💡 Develop novel machine learning techniques for vulnerability detection.
 
-Collaborate: 🤝 Engage with fellow researchers and practitioners in cybersecurity.
+<b>Collaborate</b>: 🤝 Engage with fellow researchers and practitioners in cybersecurity.
 
 Educate: 📖 Share knowledge through publications, tutorials, and code examples.
 
