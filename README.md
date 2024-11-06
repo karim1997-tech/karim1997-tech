@@ -6,7 +6,7 @@
 
 <b>Collaborate</b>: 🤝 Engage with fellow researchers and practitioners in cybersecurity.
 
-Educate: 📖 Share knowledge through publications, tutorials, and code examples.
+<b>Educate</b>: 📖 Share knowledge through publications, tutorials, and code examples.
 
 
 📦 Repository Contents
