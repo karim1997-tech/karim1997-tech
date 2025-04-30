@@ -9,13 +9,13 @@
 <b>Educate</b>: 📖 Share knowledge through publications, tutorials, and code examples.
 
 
-📦 Repository Contents
+## 💻 Code Projects
 
-<b>/research</b>: 📑 Papers and articles related to my research.
+| Project | Description | Repo |
+|--------|-------------|------|
+| 🛡️ ML Vulnerability Detector | Machine learning model to detect software vulnerabilities. | [ml-vuln-detector](https://github.com/yourusername/ml-vuln-detector) |
 
-<b>/code: </b>💻 Implementations of machine learning algorithms for vulnerability detection.
 
-<b>/data:</b> 📊 Datasets used in my studies and experiments.
 
 
 🤝 I welcome contributions from the community! 🎉 Whether you have suggestions, code improvements, or interesting datasets, feel free to open an issue or submit a pull request. Your input is invaluable!
