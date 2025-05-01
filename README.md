@@ -13,7 +13,7 @@
 
 | Project | Description | Repo |
 |--------|-------------|------|
-| 🛡️ ML Vulnerability Detector | Machine learning model to detect software vulnerabilities. | [ml-vuln-detector](https://github.com/yourusername/ml-vuln-detector) |
+| 🛡️ ML Vulnerability Detector | Machine learning model to detect software vulnerabilities. | [ml-vuln-detector](https://github.com/karim1997-tech/CodeGATNet) |
 
 
 
