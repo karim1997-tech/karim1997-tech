@@ -1,4 +1,4 @@
-👋 <b> Welcome to my GitHub repository! ,</b> I’m excited to share my research journey with you! As a PhD student, I am diving deep into the intersection of machine learning, software vulnerabilities, and network security, with a special focus on cloud computing. This space will host my findings, code implementations, and resources related to my studies. Let’s explore together! 🚀
+👋 <b> Welcome to my GitHub repository! ,</b> I’m excited to share my research journey with you! As a PhD student, I am diving deep into the intersection of machine learning, software vulnerabilities, and network security. This space will host my findings, code implementations, and resources related to my studies. Let’s explore together! 🚀
 
 🎯 Goals
 
