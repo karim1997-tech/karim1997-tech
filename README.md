@@ -9,11 +9,7 @@
 <b>Educate</b>: 📖 Share knowledge through publications, tutorials, and code examples.
 
 
-## 💻 Code Projects
 
-| Project | Description | Repo |
-|--------|-------------|------|
-| 🛡️ ML Vulnerability Detector | Machine learning model to detect software vulnerabilities. | [ml-vuln-detector](https://github.com/karim1997-tech/CodeGATNet) |
 
 
 
